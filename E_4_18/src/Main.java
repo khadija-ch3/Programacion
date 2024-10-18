@@ -1,5 +1,4 @@
-import java.util.Scanner;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
@@ -15,7 +14,7 @@ public class Main {
             if (n % i ==0){
                 primo = false;
             }
-            else if (n % i !=0 && n % n ==0){
+            else if (n % i !=0 && n%n ==0) {
                 primo= true;
             }
         }
@@ -26,7 +25,5 @@ public class Main {
         {
             System.out.println("no es primo");
         }
-
-        //gfdsgds
     }
 }

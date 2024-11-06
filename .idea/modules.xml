@@ -15,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/ex4-arrayList/ex4-arrayList.iml" filepath="$PROJECT_DIR$/ex4-arrayList/ex4-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5-arrayList/ex5-arrayList.iml" filepath="$PROJECT_DIR$/ex5-arrayList/ex5-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex6-arrayList/ex6-arrayList.iml" filepath="$PROJECT_DIR$/ex6-arrayList/ex6-arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex7-arrayList/ex7-arrayList.iml" filepath="$PROJECT_DIR$/ex7-arrayList/ex7-arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex8-arrayList/ex8-arrayList.iml" filepath="$PROJECT_DIR$/ex8-arrayList/ex8-arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex9-arrayList/ex9-arrayList.iml" filepath="$PROJECT_DIR$/ex9-arrayList/ex9-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
     </modules>
   </component>

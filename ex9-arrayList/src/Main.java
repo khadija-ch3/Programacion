@@ -11,7 +11,6 @@ public class Main {
         for (int i= 0; i< numeros.length;i++){
             numeros[i] = random.nextInt(1,10);
         }
-        System.out.println("entra un valor");
         int n = scanner.nextInt();
 
         for (int i=0;i<numeros.length;i++){

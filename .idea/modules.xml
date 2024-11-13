@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/ex8-arrayList/ex8-arrayList.iml" filepath="$PROJECT_DIR$/ex8-arrayList/ex8-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex9-arrayList/ex9-arrayList.iml" filepath="$PROJECT_DIR$/ex9-arrayList/ex9-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/exAltura/exAltura.iml" filepath="$PROJECT_DIR$/exAltura/exAltura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exPuntes/exPuntes.iml" filepath="$PROJECT_DIR$/exPuntes/exPuntes.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem1-solving/problem1-solving.iml" filepath="$PROJECT_DIR$/problem1-solving/problem1-solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
     </modules>

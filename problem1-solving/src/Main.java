@@ -4,6 +4,7 @@ public class Main {
         Scanner scanner= new Scanner(System.in);
 
         int n = scanner.nextInt();
+
         scanner.nextLine();
         String[] viejos = new String[n];
 

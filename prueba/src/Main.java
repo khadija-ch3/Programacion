@@ -3,16 +3,27 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
-        Random r = new Random();
-        float[] numeros = new float[10];
-        //guardamos en un array
-        for (int i=0; i < numeros.length; i++ ){
-            numeros[i] = scanner.nextFloat();
+        int n = scanner.nextInt();
+        int [] tab1 = new int[n];
+        for (int i=0;i <tab1.length;i++){
+            tab1[i] = scanner.nextInt();
         }
-        // imprimir los numeros del array
-        for (int i=0; i < numeros.length; i++ ){
-            System.out.println("los numeros introduzcos :" + (i +1) );
-            System.out.println(numeros[i]);
+        int [] tab2 = new int[n];
+        for (int i=0;i <tab2.length;i++){
+            tab2[i] = scanner.nextInt();
         }
-    }
+        int c =0 ;
+        for (int i=0;i <n;i++){
+            if (tab1[i] == tab2[i]){
+                c++;
+            }
+        }
+        if (c == n){
+            System.out.println("son iguales");
+        }
+        else{
+            System.out.println("son diferentes");
+        }
+
+        }
     }

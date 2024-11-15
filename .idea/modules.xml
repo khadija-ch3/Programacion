@@ -29,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/exPuntes/exPuntes.iml" filepath="$PROJECT_DIR$/exPuntes/exPuntes.iml" />
       <module fileurl="file://$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" filepath="$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" />
       <module fileurl="file://$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" filepath="$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" filepath="$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/posicion-letra/posicion-letra.iml" filepath="$PROJECT_DIR$/posicion-letra/posicion-letra.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem1-solving/problem1-solving.iml" filepath="$PROJECT_DIR$/problem1-solving/problem1-solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
     </modules>

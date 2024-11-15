@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/posicion-letra/posicion-letra.iml" filepath="$PROJECT_DIR$/posicion-letra/posicion-letra.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem1-solving/problem1-solving.iml" filepath="$PROJECT_DIR$/problem1-solving/problem1-solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robut-teclado/robut-teclado.iml" filepath="$PROJECT_DIR$/robut-teclado/robut-teclado.iml" />
     </modules>
   </component>
 </project>

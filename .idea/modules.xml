@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/EX3-arrayList/EX3-arrayList.iml" filepath="$PROJECT_DIR$/EX3-arrayList/EX3-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/E_4_18/E_4_18.iml" filepath="$PROJECT_DIR$/E_4_18/E_4_18.iml" />
       <module fileurl="file://$PROJECT_DIR$/E_4_19/E_4_19.iml" filepath="$PROJECT_DIR$/E_4_19/E_4_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pangrama/Pangrama.iml" filepath="$PROJECT_DIR$/Pangrama/Pangrama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programacion.iml" filepath="$PROJECT_DIR$/Programacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" filepath="$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" />
       <module fileurl="file://$PROJECT_DIR$/e20-4/e20-4.iml" filepath="$PROJECT_DIR$/e20-4/e20-4.iml" />
@@ -28,12 +29,14 @@
       <module fileurl="file://$PROJECT_DIR$/exAltura/exAltura.iml" filepath="$PROJECT_DIR$/exAltura/exAltura.iml" />
       <module fileurl="file://$PROJECT_DIR$/exPuntes/exPuntes.iml" filepath="$PROJECT_DIR$/exPuntes/exPuntes.iml" />
       <module fileurl="file://$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" filepath="$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" filepath="$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" filepath="$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" filepath="$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/posicion-letra/posicion-letra.iml" filepath="$PROJECT_DIR$/posicion-letra/posicion-letra.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem1-solving/problem1-solving.iml" filepath="$PROJECT_DIR$/problem1-solving/problem1-solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
       <module fileurl="file://$PROJECT_DIR$/robut-teclado/robut-teclado.iml" filepath="$PROJECT_DIR$/robut-teclado/robut-teclado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortidaEscolar/sortidaEscolar.iml" filepath="$PROJECT_DIR$/sortidaEscolar/sortidaEscolar.iml" />
     </modules>
   </component>
 </project>

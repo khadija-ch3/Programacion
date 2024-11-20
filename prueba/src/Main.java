@@ -3,27 +3,30 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
-        int n = scanner.nextInt();
-        int [] tab1 = new int[n];
-        for (int i=0;i <tab1.length;i++){
-            tab1[i] = scanner.nextInt();
-        }
-        int [] tab2 = new int[n];
-        for (int i=0;i <tab2.length;i++){
-            tab2[i] = scanner.nextInt();
-        }
-        int c =0 ;
-        for (int i=0;i <n;i++){
-            if (tab1[i] == tab2[i]){
-                c++;
+        char [] alfa = "abcdefghijklmnñoprstuvwxyz".toCharArray();
+        char [] text = scanner.nextLine().toCharArray();
+        int c=0;
+        for (int i= 0 ; i< alfa.length;i++){
+            for (int j =0;j<text.length;j++){
+                if (alfa[i] == text[j]){
+                    c++;
+                }
+                else {
+                    break;
+                }
+
             }
         }
-        if (c == n){
-            System.out.println("son iguales");
+        boolean hayLitras = true;
+        for (int i=0 ;i<alfa.length;i++){
+            if (i == c){
+                hayLitras= true;
+            }
+            else {
+                hayLitras= false;
+            }
         }
-        else{
-            System.out.println("son diferentes");
-        }
+        System.out.println(hayLitras);
 
         }
     }

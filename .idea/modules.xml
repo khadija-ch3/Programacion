@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/ex11-arrayList/ex11-arrayList.iml" filepath="$PROJECT_DIR$/ex11-arrayList/ex11-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex12-arrayList/ex12-arrayList.iml" filepath="$PROJECT_DIR$/ex12-arrayList/ex12-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex13-arrayList/ex13-arrayList.iml" filepath="$PROJECT_DIR$/ex13-arrayList/ex13-arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex13-matrice/ex13-matrice.iml" filepath="$PROJECT_DIR$/ex13-matrice/ex13-matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex14-arrayList/ex14-arrayList.iml" filepath="$PROJECT_DIR$/ex14-arrayList/ex14-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex15-arrayList/ex15-arrayList.iml" filepath="$PROJECT_DIR$/ex15-arrayList/ex15-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex19-4/ex19-4.iml" filepath="$PROJECT_DIR$/ex19-4/ex19-4.iml" />
@@ -40,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/ex9_matrice/ex9_matrice.iml" filepath="$PROJECT_DIR$/ex9_matrice/ex9_matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/exAltura/exAltura.iml" filepath="$PROJECT_DIR$/exAltura/exAltura.iml" />
       <module fileurl="file://$PROJECT_DIR$/exPuntes/exPuntes.iml" filepath="$PROJECT_DIR$/exPuntes/exPuntes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exRandom_matrice/exRandom_matrice.iml" filepath="$PROJECT_DIR$/exRandom_matrice/exRandom_matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/matrizReves/matrizReves.iml" filepath="$PROJECT_DIR$/matrizReves/matrizReves.iml" />
       <module fileurl="file://$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" filepath="$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" />
       <module fileurl="file://$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" filepath="$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" />

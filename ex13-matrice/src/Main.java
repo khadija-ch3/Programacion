@@ -11,8 +11,6 @@ public class Main {
                 {9, 3, 10,9},
         };
 
-
-
             for (int i = 0; i < matriu.length; i++) {
                 int sumaF = 0;
                 for (int j = 0; j < matriu[i].length; j++) {
@@ -24,17 +22,16 @@ public class Main {
             }
 
             /*suma de columnas  */
-
         for (int j = 0; j < matriu.length; j++){
             int sumaC = 0;
             for (int i = 0; i < matriu.length; i++){
-
                     sumaC += matriu[i][j];
                 }
 
             System.out.print( "la suma de columna " + j +  " es :" + sumaC + " " );
             System.out.println();
             }
+
         /* la suma de la diagonal principal*/
         int sumaD1 = 0;
         for (int i = 0; i < matriu.length; i++) {
@@ -48,6 +45,5 @@ public class Main {
             sumaD2 += matriu[i][matriu.length-1-i];
         }
         System.out.println("la suma de la diagonal invertida : " + sumaD2);
-
         }
     }

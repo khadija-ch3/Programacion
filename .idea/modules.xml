@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/block-puzzle/block-puzzle.iml" filepath="$PROJECT_DIR$/block-puzzle/block-puzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/bomberMan/bomberMan.iml" filepath="$PROJECT_DIR$/bomberMan/bomberMan.iml" />
       <module fileurl="file://$PROJECT_DIR$/buscaMinas/buscaMinas.iml" filepath="$PROJECT_DIR$/buscaMinas/buscaMinas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comptant-mines/comptant-mines.iml" filepath="$PROJECT_DIR$/comptant-mines/comptant-mines.iml" />
       <module fileurl="file://$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" filepath="$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" />
       <module fileurl="file://$PROJECT_DIR$/e20-4/e20-4.iml" filepath="$PROJECT_DIR$/e20-4/e20-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ej_24_4/ej_24_4.iml" filepath="$PROJECT_DIR$/ej_24_4/ej_24_4.iml" />

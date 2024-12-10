@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" filepath="$PROJECT_DIR$/dos-Secuencias-Iguales/dos-Secuencias-Iguales.iml" />
       <module fileurl="file://$PROJECT_DIR$/e20-4/e20-4.iml" filepath="$PROJECT_DIR$/e20-4/e20-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ej_24_4/ej_24_4.iml" filepath="$PROJECT_DIR$/ej_24_4/ej_24_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1-metodos/ex1-metodos.iml" filepath="$PROJECT_DIR$/ex1-metodos/ex1-metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex10_arrayList/ex10_arrayList.iml" filepath="$PROJECT_DIR$/ex10_arrayList/ex10_arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex11-arrayList/ex11-arrayList.iml" filepath="$PROJECT_DIR$/ex11-arrayList/ex11-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex12-arrayList/ex12-arrayList.iml" filepath="$PROJECT_DIR$/ex12-arrayList/ex12-arrayList.iml" />
@@ -29,10 +30,13 @@
       <module fileurl="file://$PROJECT_DIR$/ex20_matrice/ex20_matrice.iml" filepath="$PROJECT_DIR$/ex20_matrice/ex20_matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex22-matrice/ex22-matrice.iml" filepath="$PROJECT_DIR$/ex22-matrice/ex22-matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex2_matrice/ex2_matrice.iml" filepath="$PROJECT_DIR$/ex2_matrice/ex2_matrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_metodos/ex2_metodos.iml" filepath="$PROJECT_DIR$/ex2_metodos/ex2_metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex3-matrice/ex3-matrice.iml" filepath="$PROJECT_DIR$/ex3-matrice/ex3-matrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3-metodos/ex3-metodos.iml" filepath="$PROJECT_DIR$/ex3-metodos/ex3-metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex3_matrice/ex3_matrice.iml" filepath="$PROJECT_DIR$/ex3_matrice/ex3_matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex4-arrayList/ex4-arrayList.iml" filepath="$PROJECT_DIR$/ex4-arrayList/ex4-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex4_matrice/ex4_matrice.iml" filepath="$PROJECT_DIR$/ex4_matrice/ex4_matrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4_metodos/ex4_metodos.iml" filepath="$PROJECT_DIR$/ex4_metodos/ex4_metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5-arrayList/ex5-arrayList.iml" filepath="$PROJECT_DIR$/ex5-arrayList/ex5-arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5-matrice/ex5-matrice.iml" filepath="$PROJECT_DIR$/ex5-matrice/ex5-matrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5_matrice/ex5_matrice.iml" filepath="$PROJECT_DIR$/ex5_matrice/ex5_matrice.iml" />
@@ -47,12 +51,15 @@
       <module fileurl="file://$PROJECT_DIR$/exAltura/exAltura.iml" filepath="$PROJECT_DIR$/exAltura/exAltura.iml" />
       <module fileurl="file://$PROJECT_DIR$/exPuntes/exPuntes.iml" filepath="$PROJECT_DIR$/exPuntes/exPuntes.iml" />
       <module fileurl="file://$PROJECT_DIR$/exRandom_matrice/exRandom_matrice.iml" filepath="$PROJECT_DIR$/exRandom_matrice/exRandom_matrice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_metodos/ex_metodos.iml" filepath="$PROJECT_DIR$/ex_metodos/ex_metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/matrizReves/matrizReves.iml" filepath="$PROJECT_DIR$/matrizReves/matrizReves.iml" />
       <module fileurl="file://$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" filepath="$PROJECT_DIR$/mescals-secuencias/mescals-secuencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-prueba/metodos-prueba.iml" filepath="$PROJECT_DIR$/metodos-prueba/metodos-prueba.iml" />
       <module fileurl="file://$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" filepath="$PROJECT_DIR$/ordenar-sequencia/ordenar-sequencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" filepath="$PROJECT_DIR$/pares-imapresArray/pares-imapresArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" filepath="$PROJECT_DIR$/posicio_Alfabet/posicio_Alfabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/posicion-letra/posicion-letra.iml" filepath="$PROJECT_DIR$/posicion-letra/posicion-letra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preparacion_examen/preparacion_examen.iml" filepath="$PROJECT_DIR$/preparacion_examen/preparacion_examen.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem1-solving/problem1-solving.iml" filepath="$PROJECT_DIR$/problem1-solving/problem1-solving.iml" />
       <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
       <module fileurl="file://$PROJECT_DIR$/pruebe_matrice/pruebe_matrice.iml" filepath="$PROJECT_DIR$/pruebe_matrice/pruebe_matrice.iml" />

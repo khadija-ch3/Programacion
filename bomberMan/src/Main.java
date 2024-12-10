@@ -7,6 +7,7 @@ public class Main {
         int f = scanner.nextInt();
         int c = scanner.nextInt();
         int[][] tablero = new int[f][c];
+        // rellenar el array
         for (int i = 0; i < tablero.length; i++) {
             for (int j = 0; j < tablero[i].length; j++) {
                 tablero[i][j] = scanner.nextInt();
@@ -18,14 +19,15 @@ public class Main {
          */
         int filaExplota = 0;
         int columnaExplota = 0;
-       /* filas*/  for (int i = 0; i < tablero.length; i++) {
-           /* columnas*/ for (int j = 0; j < tablero[i].length; j++) {
+       /* filas*/   for (int i = 0; i < tablero.length; i++) {
+           /* columnas*/  for (int j = 0; j < tablero[i].length; j++) {
                 if (e == tablero[i][j]) {
                     filaExplota = i;
                     columnaExplota = j;
                 }
             }
         }
+
         for (int i = 0; i < tablero.length; i++) {
             for (int j = 0; j < tablero[i].length; j++) {
                 if (i == filaExplota || j == columnaExplota) {

@@ -13,10 +13,11 @@ public class Main {
                 nums[i][j] = scanner.nextInt();
             }
         }
+
         int fila = scanner.nextInt();
         int columna = scanner.nextInt();
 
-        while (fila != 0 && columna != 0) ;
+        while (fila != 0 && columna != 0){
         //si en la posicion x y de la matriz
         // hay un 1, escribe SI, sino "no"
         {
